@@ -13,7 +13,7 @@
 #include <angelscript/add_on/scriptbuilder/scriptbuilder.h>
 #include <angelscript/add_on/scriptstdstring/scriptstdstring.h>
 #include <angelscript/add_on/scriptmath/scriptmath.h>
-
+#include <boost/filesystem/string_file.hpp>
 using namespace gw;
 
 namespace Slic3r {  namespace GUI {
